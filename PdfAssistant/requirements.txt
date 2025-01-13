@@ -1,0 +1,7 @@
+sqlalchemy
+pgvector
+psycopg[binary]
+pypdf
+openai
+sentence-transformers
+numpy==1.26.4
